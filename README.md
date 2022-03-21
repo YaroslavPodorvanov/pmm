@@ -12,3 +12,8 @@ Install exporters:
 * [proxysql_exporter](https://github.com/percona/proxysql_exporter)
 
 Run `make download-exporters` to download all exporters
+
+## Architecture
+* https://www.percona.com/doc/percona-monitoring-and-management/2.x/details/architecture.html
+
+![PMM Architecture Client Server](https://www.percona.com/doc/percona-monitoring-and-management/2.x/_images/PMM_Architecture_Client_Server.jpg)
